@@ -1,0 +1,45 @@
+End User License Agreement
+
+Hello! We are glad you've decided to play the Groove Balls game. Before you go, please read the following legal rules. Don't worry! We want you primarily to enjoy the game, not to put up any obstacles against it.
+
+1. General
+1.1. This agreement is a contract between you and Yolopia Ltd (hereinafter "Yolopia"), governing your use of our Groove Balls game.
+1.2. For the purpose of this agreement, the term Groove Balls game includes the software of the videogame itself, all of its components (e.g., the source code) and content (e.g., graphical or musical content).
+1.3. This agreement applies to the Groove Balls game and all of its future updates and expansions, unless the expansion is governed by a separate agreement. If an expansion to the Groove Balls game is governed by a separate agreement, you will be explicitly asked to agree to the separate agreement.
+1.4. If you are a minor (below the legal age of majority in your country), please have the agreement reviewed and agreed to by your parent or legal guardian.
+2. Application of a distributor's terms and conditions
+2.1. We generally use the services of a distributor to market our Groove Balls game. The distributor usually has its own terms and conditions governing your use of its services and the distribution of software via its services to you. If there is anything in the distributor's terms and conditions that overlaps with the legal matters regulated in this agreement, the distributor's terms and conditions take precedence unless they provide that this agreement between you and Yolopia Ltd applies preferentially.
+3. Health and safety warning
+3.1. Due to its virtual-reality nature, the Groove Balls game can be physically challenging. Please consider your state of health before you start playing. If you have any doubts, consult a physician. Take breaks regularly and stay hydrated.
+3.2. Please be careful and mindful of your environment when playing the Groove Balls game. Always make sure there is enough space for you to play safely and that there are no obstacles or dangerous objects around you.
+3.3. If you are a minor (below the legal age of majority in your country), please have the health and safety concerns checked by your parent or another responsible adult person before you start to play the Groove Balls game.
+3.4. Please note that you bear responsibility for your actions while you play the Groove Balls game. We don't take responsibility for any injury or damage caused by your actions while playing the Groove Balls game.
+4. License terms and ownership
+4.1. We give you the right to use the Groove Balls game (a license) to the extent of downloading it, installing it, and playing it for your personal non-commercial enjoyment.
+4.2. You may not do the following with the Groove Balls game:
+4.2.1. use the Groove Balls game for commercial purpose (including e-sport and similar events) without our prior consent or unless specifically permitted in this Agreement;
+4.2.2. grant a sublicense to another person;
+4.2.3. copy the Groove Balls game, apart from creating copies necessary to run the Groove Balls game on your gaming device;
+4.2.4. sell, rent, lease or otherwise distribute the Groove Balls game;
+4.2.5. edit, merge, distribute, translate, reverse engineer, decompile, disassemble the Groove Balls game unless specifically permitted in this Agreement, by our prior consent, or by the mandatory rules of the applicable law;
+4.2.6. cheat, wilfully exploit bugs or glitches, wilfully harass or grief other players, or utilize any software or other means to do any of the aforementioned activities in the Groove Balls game;
+4.2.7. bypass or remove any measure preventing misuse of the Groove Balls game;
+4.2.8. misuse the Groove Balls game in any way contrary to the applicable law, including good morals rules.
+4.3. We retain all ownership rights to the Groove Balls game. No proprietary right is assigned to you via this agreement.
+4.4. We reserve the right to provide or unilaterally deploy patches, updates and other modifications to the Groove Balls game in order to remove or correct a bug, glitch or other issue, to prevent misuse of the game or breach of this agreement, or to enhance the gameplay (e.g., provide you with additional content).
+5. Liability
+5.1. We grant you all the rights under this agreement to the Groove Balls game "as is" and "as available". That means that we do not grant you any guarantee that the Groove Balls game works without any bugs, glitches, or other issues. In as much as the applicable law permits, we don't take any responsibility or liability for the Groove Balls game having any bugs, glitches, or other issues.
+5.2. We warrant to you that we have the right to conclude this agreement with you and that we have the right to grant you the rights under this agreement (namely the license to use the Groove Balls game).
+6. Termination
+6.1. If you materially breach this agreement, we have the right to terminate the agreement without any notice period. If it comes to this, you will lose all the rights granted by this agreement, namely the right to use the Groove Balls game, whereas we shall have no further obligations to you stemming from this agreement.
+7. Governing law and dispute resolution
+7.1. This agreement, your use of the Groove Balls game and all claims based on, arising from or related to this agreement or its execution, including rights and obligations regarding compensation of damages caused by a breach of this agreement or rights and obligations regarding any unjust enrichment incurred in relation to this agreement, shall be governed by and enforced in accordance with the law of the United Kingdom (excluding conflict-of-law rules), including its statutes of limitations.
+7.2. Any dispute pertaining to this agreement shall be judged and resolved exclusively by the courts of the United Kingdom.
+8. Changes and amendments
+8.1. We reserve the right to make changes to this agreement. In such case, we will post the changes and amended text of the agreement online and take reasonable steps to draw your attention to it.
+8.2. The changes shall come into effect (become legally binding) 30 days after we post the amended agreement online, unless a longer period is stipulated in the amendment. If you don't agree to the changes, you can terminate this agreement by simply ceasing to use the Groove Balls game (including deleting any copy installed on your gaming device). If you continue to use the Groove Balls game after the changes have come into effect, it shall be construed that you agree to the amended agreement in its entirety.
+9. Other legal matters
+9.1. You may not assign this agreement or any of the rights granted in the agreement to another person.
+9.2. In as much as the applicable law permits, the provisions of this agreement shall be interpreted to the fullest extent expressed in this agreement. If any of the provisions of this agreement is deemed to be void, inapplicable, or unenforceable, the remaining provisions shall not be affected.
+10. Contact
+10.1. If you have any questions, comments or feedback, you can contact us at support@yolopia.com. Please contact us at this email address also in case you have any complaints in regard to our performance of this agreement.
