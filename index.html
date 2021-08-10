@@ -61,6 +61,18 @@ body {
     opacity: 1;
 }
 
+@media only screen and (orientation: landscape) {
+  #logo {
+    width: 60vh;
+  }
+}
+
+@media only screen and (orientation: portrait) {
+  #logo {
+    width: 80vw;
+  }
+}
+
 </style>
   </head>
 <body>
@@ -68,10 +80,10 @@ body {
     <div id="header"></div>
     <div id="main">
 
-        <img src="bd.png" style="width: 33vh"/>
+        <img src="logo.png" id="logo"/>
         <div style="margin-top: 2vh;">
-            <a href="http://store.steampowered.com/app/1389000/"><img src="steam.png"/></a>
-            <!-- a href="#"><img src="twitch.png" style="width: 9vh"/></a-->
+            <a href="https://store.steampowered.com/app/1525810"><img src="steam.png"/></a>
+            <a href="https://www.oculus.com/experiences/quest/4139755902754853/"><img src="oculus.png" /></a-->
             
         </div>
     </div>
